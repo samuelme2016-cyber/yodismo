@@ -6,7 +6,7 @@ export const modulesData = [
     subtitle: "Lives na Prática para TikTok Shop",
     description: "Assista às lives gravadas e veja na prática estratégias para vender através do TikTok Shop.",
     detailDescription: "Conteúdos gravados para você aprender na prática como utilizar Lives no TikTok Shop.",
-    coverImage: "/assets/cover_lives_gravadas.jpg",
+    coverImage: "./assets/cover_lives_gravadas.jpg",
     color: "cyan",
     gradient: "from-cyan-500/20 via-slate-900 to-slate-950",
     accentBorder: "group-hover:border-cyan-500/50",
@@ -19,7 +19,7 @@ export const modulesData = [
         number: "AULA 01",
         title: "Baixando o Live Studio e fazendo as configurações básicas",
         duration: "18 min",
-        thumbnail: "/assets/thumb_live_aula01.jpg",
+        thumbnail: "./assets/thumb_live_aula01.jpg",
         videoUrl: "https://youtu.be/WBu2wy-mLas",
         description: "Aprenda a fazer o download seguro do TikTok Live Studio oficial, realizar o processo de instalação e configurar os parâmetros essenciais de resolução, câmera, microfone e qualidade para a sua primeira transmissão."
       },
@@ -28,7 +28,7 @@ export const modulesData = [
         number: "AULA 02",
         title: "Live Studio — Configurações avançadas",
         duration: "24 min",
-        thumbnail: "/assets/thumb_live_aula02.jpg",
+        thumbnail: "./assets/thumb_live_aula02.jpg",
         videoUrl: "https://youtu.be/E-3ik79rDEE",
         description: "Domine os recursos avançados do Live Studio: ajuste fino de bitrate de vídeo, codificação por GPU, gerenciamento de cenas, atalhos de teclado e integração direta com o catálogo de produtos do TikTok Shop."
       },
@@ -37,7 +37,7 @@ export const modulesData = [
         number: "AULA 03",
         title: "TikTok Web — Tudo pronto para rodar a primeira Live",
         duration: "20 min",
-        thumbnail: "/assets/thumb_live_aula03.jpg",
+        thumbnail: "./assets/thumb_live_aula03.jpg",
         videoUrl: "https://youtu.be/4MYHyDpMNIA",
         description: "Passo a passo pelo painel do TikTok Web para preparar o título da transmissão, selecionar a categoria do produto, vincular cupons de desconto ao vivo e verificar a saúde da conta antes de iniciar a Live."
       },
@@ -46,7 +46,7 @@ export const modulesData = [
         number: "AULA 04",
         title: "Como funciona a extensão de Live",
         duration: "15 min",
-        thumbnail: "/assets/thumb_live_aula04.jpg",
+        thumbnail: "./assets/thumb_live_aula04.jpg",
         videoUrl: "https://youtu.be/ec7q1M5dfp4",
         description: "Entenda em detalhes o funcionamento da extensão de Live para otimizar suas vendas: fixação automática de produtos na tela, exibição de notificações de compras em tempo real e automação de engajamento do chat."
       }
@@ -59,7 +59,7 @@ export const modulesData = [
     subtitle: "Criação de Conteúdo Automatizado com Inteligência Artificial",
     description: "Aprenda a criar vídeos utilizando Inteligência Artificial para publicar e vender no TikTok Shop.",
     detailDescription: "Aprenda a utilizar Inteligência Artificial para criar vídeos estratégicos para o TikTok Shop.",
-    coverImage: "/assets/cover_videos_ia.jpg",
+    coverImage: "./assets/cover_videos_ia.jpg",
     color: "pink",
     gradient: "from-pink-500/20 via-slate-900 to-slate-950",
     accentBorder: "group-hover:border-pink-500/50",
@@ -72,7 +72,7 @@ export const modulesData = [
         number: "AULA 01",
         title: "Aulão Vídeo com IA",
         duration: "45 min",
-        thumbnail: "/assets/thumb_ia_aulao.jpg",
+        thumbnail: "./assets/thumb_ia_aulao.jpg",
         videoUrl: "https://youtu.be/MqV0P1mhtVs",
         description: "Aulão completo e intensivo ensinando a utilizar Inteligência Artificial do zero para criar, editar e publicar vídeos de alta conversão para o TikTok Shop. Aprenda a gerar roteiros virais, vozes sintéticas ultra-realistas, avatares e criativos focados em vendas.",
         materials: [
